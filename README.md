@@ -162,7 +162,7 @@ Bitcast was built as:
 ---
 ## 🚀 Installation
 ```bash
-git clone https://github.com/Aryasuta17/bitcast.git
+git clone https://github.com/muafim/bitcast.git
 cd bitcast
 pip install -r requirements.txt
 python app.py
